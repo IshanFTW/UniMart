@@ -65,7 +65,7 @@ Start the backend Server
 ```bash
   nodemon app.js
 ```  
-Please make sure you have config.env file setup in the backend directory. The Format is demostrated in config.env.example file.
+make config.env file setup in the backend directory. 
 
 
 
