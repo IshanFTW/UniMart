@@ -49,11 +49,6 @@ To Open frontend directory.
 ```bash
 cd .\frontend\
 ```
-To Open backend directory.
-
-```bash
-cd .\backend\
-```
 
 Start the frontend React application
 
