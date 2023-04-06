@@ -60,12 +60,7 @@ Start the frontend React application
 ```bash
   npm run start
 ```
-Start the backend Server 
 
-```bash
-  nodemon app.js
-```  
-make config.env file setup in the backend directory. 
 
 
 
